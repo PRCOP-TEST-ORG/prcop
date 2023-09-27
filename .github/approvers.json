@@ -1,11 +1,11 @@
 {
-    "infra":[
+    "infra-team":[
         "@OYOOOWINO","@vantablanta", "@ndaba"
     ],
-    "backend":[
+    "back-team":[
         "@OYOOOWINO","@vantablanta", "@ndaba"
     ],
-    "frontend":[
+    "front-team":[
         "@OYOOOWINO","@vantablanta", "@ndaba"
     ]
 }
