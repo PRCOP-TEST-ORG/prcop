@@ -1,2 +1,2 @@
-/amplify @PRCOP-TEST-ORG/infra-team
-/frontend @PRCOP-TEST-ORG/front-team
+/amplify @PRCOP-TEST-ORG/infra-team @prcop
+/frontend @PRCOP-TEST-ORG/front-team @prcop
